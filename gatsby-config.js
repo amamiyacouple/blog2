@@ -7,17 +7,17 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `バリキャリ夫婦雨宮のブログ`,
+    author: `@amamiya_couple`,
+    description: `パワーカップルの資産運用/語学/仕事/転職/婚活を発信`,
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        url: `https://twitter.com/amamiya_couple`,
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://github.com/amamiyacouple`,
       },
     ],
   },
